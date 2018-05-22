@@ -12,6 +12,7 @@ This application integrates an authentication with Github. You first need
  Once you created the OAuth application, you need to get the `client ID` and
  `client secret` to put those information in the `app/config/parameters.yml` file.
  
+ Readme updated 
 Installation
 ============
  
